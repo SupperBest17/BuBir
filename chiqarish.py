@@ -22,3 +22,4 @@ def menuniki():
 menuniki()
 
 
+#Bu yerga O'zgartirish kiritilishi kerak edi.
